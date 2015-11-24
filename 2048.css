@@ -1,0 +1,43 @@
+body, button {
+	font-size: 14pt;
+	font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
+	text-align: center;
+	background-color: #faf8ef;
+}
+
+#puzzlearea {
+	margin-left: auto;
+	margin-right: auto;
+	width: 400px;
+	height: 400px;
+	position: relative;
+	border: 10px solid #bbada0;
+	background-color: #bbada0;
+	border-radius: 7px;
+}
+
+.pieces {
+	color: #776e65;
+	font-weight: bold;
+	position: absolute;
+	width: 90px;
+	height: 90px;
+	border: 5px solid #bbada0;
+	line-height: 90px;
+}
+
+.controls {
+	width: 60px;
+	margin: 10px;
+}
+
+#state {
+	color: red;
+}
+
+/*.light {
+	color: #f9f6f2;
+    background: #edc22e;
+    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
+    border-color: rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333)
+}*/
