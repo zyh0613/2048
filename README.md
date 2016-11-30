@@ -10,4 +10,4 @@ Join the numbers and get to the 2048 tile! Use arrow keys (if on computer) to mo
 
 ## Quick play
 
-Try it here http://students.washington.edu/yuhaoz3/Project/Program/2048/2048.html!
+Try it here! http://students.washington.edu/yuhaoz3/Project/Program/2048/2048.html
